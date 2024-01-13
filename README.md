@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Sisyphus probably call me Sisy~ 
+- 👀 I’m interested in Mathematics and just programming ;
+- 🌱 I’m currently learning [ 'Differential equations' , 'Category Theory' , 'Vue' , 'MySQL' , 'MATLAB' ] ;
+- 💞️ I’m looking 2 collaborate on maybe nothing cause we have A lovely team ; 
+- 📫 How 2 reach me ? plez text me @19825011900@qq.com ;
+- 😄 Happy 2 see ur valued comments and if any advice ^-^ ;
+- ⚡ Fun fact: I never hate MUSIC. 
