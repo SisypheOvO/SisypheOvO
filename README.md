@@ -2,7 +2,7 @@
 😎 U could probably call me Sisy~
 
 - 👀 I’m a front-end engineer if not being modest...
-- 💞️ I’m LUV Mathematics, programming, never hate music (& PS I have A lovely team). 
+- 💞️ I LUV Mathematics, programming, never hate music (& PS I have A lovely team). 
 - 🌱 I’m currently learning ['Differential equations' , 'Category Theory' , 'Vue' , 'MySQL' , 'MATLAB'] ;
 - 📫 How 2 reach me ? plez text me @19825011900@qq.com ;
 - 😄 Happy 2 see ur valued comments and if any advice ^_^ ;
