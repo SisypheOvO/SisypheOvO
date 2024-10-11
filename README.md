@@ -1,6 +1,6 @@
 > # ⚡· Per Aspera Ad Astra ·⚡
-# Hi, I’m Sisi.
-### Things I code with
+# Hi, I’m Sisi. Fullstack developer from <img src="https://img.picui.cn/free/2024/10/12/670966c68d06a.png" width="25"/> <b>Moon</b>
+## Things I code with
 
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -30,12 +30,13 @@
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=websocket&logoColor=white)
 
 
+## Open source projects
 
+| 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
+|-------------|----------|----------|-----------|-----------------|
+| [Minds Iolite](https://github.com/Ben-Phantom/minds_iolite) | ![Stars](https://img.shields.io/github/stars/Ben-Phantom/minds_iolite?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/Ben-Phantom/minds_iolite?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/Ben-Phantom/minds_iolite?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/Ben-Phantom/minds_iolite?style=flat-square&labelColor=343b41) |
+| [Osynic](https://github.com/Ben-Phantom/Osynic) | ![Stars](https://img.shields.io/github/stars/Ben-Phantom/Osynic?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/Ben-Phantom/Osynic?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/Ben-Phantom/Osynic?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/Ben-Phantom/Osynic?style=flat-square&labelColor=343b41) |
+| [SimpleElectron](https://github.com/Ben-Phantom/SimpleElectron) | ![Stars](https://img.shields.io/github/stars/Ben-Phantom/SimpleElectron?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/Ben-Phantom/SimpleElectron?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/Ben-Phantom/SimpleElectron?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/Ben-Phantom/SimpleElectron?style=flat-square&labelColor=343b41) |
 
-### Side Projects I'm abit proud of:  
-* 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ben-Phantom&repo=SimpleElectron&show_icons=true&theme=moltack&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-* Undefined
 
 [![Sisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-Phantom&show_icons=true&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
