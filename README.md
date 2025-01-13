@@ -1,5 +1,5 @@
 > # ⚡· Per Aspera Ad Astra ·⚡
-# Hi, I’m Sisi. Fullstack developer from <img src="https://img.picui.cn/free/2024/10/12/670966c68d06a.png" width="25"/> <b>Moon</b>
+# Hi, I’m Sisi. Fullstack developer from 🌕
 ## Things I code with
 
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
