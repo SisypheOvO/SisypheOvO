@@ -1,6 +1,4 @@
-> # ⚡· Per Aspera Ad Astra ·⚡
-# Hi, I’m Sisi. Fullstack developer from 🌕
-## Things I code with
+# · Per Aspera Ad Astra ·
 
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -28,15 +26,17 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-38B2AC?style=flat-square&logo=express&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-1D365D?style=flat-square&logo=rust&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+![SolidJS](https://img.shields.io/badge/-Solid-010101?style=flat-square&logo=solid&logoColor=white)
 
 
-## Open source projects
+## Projects Im recently working on
 
 | 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
 |-------------|----------|----------|-----------|-----------------|
-| [Minds Iolite](https://github.com/SisypheOvO/minds_iolite) | ![Stars](https://img.shields.io/github/stars/SisypheOvO/minds_iolite?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/SisypheOvO/minds_iolite?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/SisypheOvO/minds_iolite?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/SisypheOvO/minds_iolite?style=flat-square&labelColor=343b41) |
 | [Osynic](https://github.com/SisypheOvO/Osynic) | ![Stars](https://img.shields.io/github/stars/SisypheOvO/Osynic?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/SisypheOvO/Osynic?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/SisypheOvO/Osynic?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/SisypheOvO/Osynic?style=flat-square&labelColor=343b41) |
-| [SimpleElectron](https://github.com/SisypheOvO/SimpleElectron) | ![Stars](https://img.shields.io/github/stars/SisypheOvO/SimpleElectron?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/SisypheOvO/SimpleElectron?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/SisypheOvO/SimpleElectron?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/SisypheOvO/SimpleElectron?style=flat-square&labelColor=343b41) |
+| [TourneyOnline](https://github.com/SIyuyuko/osu-tourney-online) | ![Stars](https://img.shields.io/github/stars/SIyuyuko/osu-tourney-online?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/SIyuyuko/osu-tourney-online?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/SIyuyuko/osu-tourney-online?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/SIyuyuko/osu-tourney-online?style=flat-square&labelColor=343b41) |
+| [TosuLyrics](https://github.com/HollisMeynell/tosu-lyrics) | ![Stars](https://img.shields.io/github/stars/HollisMeynell/tosu-lyrics?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/HollisMeynell/tosu-lyrics?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/HollisMeynell/tosu-lyrics?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/HollisMeynell/tosu-lyrics?style=flat-square&labelColor=343b41) |
+| [MCWhiteList](https://github.com/MoonWX/vue-mcwhitelist) | ![Stars](https://img.shields.io/github/stars/MoonWX/vue-mcwhitelist?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/MoonWX/vue-mcwhitelist?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/MoonWX/vue-mcwhitelist?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/MoonWX/vue-mcwhitelist?style=flat-square&labelColor=343b41) |
 
 
 [![Sisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SisypheOvO&show_icons=true&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
