@@ -20,13 +20,14 @@
 ![Node.js](https://img.shields.io/badge/-Nodejs-F7B93E?style=flat-square&logo=Node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-F7DF1E?style=flat-square&logo=mongodb&logoColor=white)
 ![Vue 2](https://img.shields.io/badge/-Vue-43853d?style=flat-square&logo=vue.js&logoColor=white)
+![Tauri](https://img.shields.io/badge/-tauri-1a3a3f?style=flat-square&logo=tauri&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/-Vue3-47A248?style=flat-square&logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-4FC08D?style=flat-square&logo=tailwind-css&logoColor=white)
 ![LESS](https://img.shields.io/badge/-LESS-42b883?style=flat-square&logo=less&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-38B2AC?style=flat-square&logo=express&logoColor=white)
+![SolidJS](https://img.shields.io/badge/-Solid-3d5c84?style=flat-square&logo=solid&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-1D365D?style=flat-square&logo=rust&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-![SolidJS](https://img.shields.io/badge/-Solid-010101?style=flat-square&logo=solid&logoColor=white)
 
 
 ## Recently working on
