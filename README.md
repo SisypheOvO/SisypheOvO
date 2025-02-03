@@ -29,7 +29,7 @@
 ![SolidJS](https://img.shields.io/badge/-Solid-010101?style=flat-square&logo=solid&logoColor=white)
 
 
-## Projects Im recently working on
+## Recently working on
 
 | 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
 |-------------|----------|----------|-----------|-----------------|
